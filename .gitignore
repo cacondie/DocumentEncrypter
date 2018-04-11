@@ -1,0 +1,5 @@
+DocumentEncrypter/obj/*
+DocumentEncrypter/bin/*
+.vs*
+DocumentEncrypter.App/obj/*
+DocumentEncrypter.App/bin/*
